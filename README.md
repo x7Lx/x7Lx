@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @x7Lx
+- 👀 I’m interested in python and raspberry pi.
+- 🌱 I’m currently learning python and linux.
+- 💞️ I’m looking to collaborate on nothing, self learning type.
